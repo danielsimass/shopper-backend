@@ -15,7 +15,7 @@ This project was made using the follow technologies:
 $ docker run --name shopper -e POSTGRES_PASSWORD=root -p 8080:5432 -d postgres
 ```
 
-
+# :computer: How to run
 
 ```bash
 # Clone Repository
@@ -30,7 +30,7 @@ $ yarn start
 ```
 # Seed Products
 just click here to seed your data base with products http://localhost:3333/products/seed
-# :computer: How to run
+
 
 
 Thank you! 👋🏼
